@@ -1,6 +1,8 @@
 <h1 align="center">Привет<a href="" target="_blank"></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Это сборка на ESX фреймворк сервер, она готова к работе. Вам нужно лишь настроить ваши адреса, ключи и закачать базу данных данного сервера на свой ресурс. Это классическая сборка со всеми необходимыми инструментами, включая админский инструментарий с основными админискими командами и правами доступа. This is an ESX server build, ready to go. You only need to set up your addresses, keys and upload the database of this server to your resource. This is a classic build with all the necessary tools.</h3>
+<h3 align="center">Это сборка на ESX фреймворк сервер, она готова к работе. Вам нужно лишь настроить ваши адреса, ключи и закачать базу данных данного сервера на свой ресурс. Это классическая сборка со всеми необходимыми инструментами, включая админский инструментарий с основными админискими командами и правами доступа.</h3>
+
+This is an ESX server build, ready to go. You only need to set up your addresses, keys and upload the database of this server to your resource. This is a classic build with all the necessary tools
 
 Редактируйте файл server.cfg в нем замените "insert the key here" на ваши ключи доступа
 
