@@ -1,5 +1,5 @@
 ### Это сборка сервера сделана на ESX фреймворке, она полностью готова к работе. Вам нужно лишь настроить ваши адреса, ключи и закачать базу данных данного сервера на свой ресурс. Это классическая сборка со всеми необходимыми инструментами, включая админский инструментарий с основными админискими командами и правами доступа.
-### This is an ESX server build, ready to go. You only need to set up your addresses, keys and upload the database of this server to your resource. This is a classic build with all the necessary tools
+### This is an ESX server build, ready to go. You only need to set up your addresses, keys and upload the database of this server to your resource. This is a classic build with all the necessary tools.
 
 - Редактируйте файл `server.cfg` в нем замените `"insert the key here"` на ваши ключи доступа
 - `set steam_webApiKey` тут вставьте ваш steamapikey
