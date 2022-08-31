@@ -1,22 +1,17 @@
 <h1 align="center">Привет<a href="" target="_blank"></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Это сборка на ESX фреймворк сервер, она готова к работе. Вам нужно лишь настроить ваши адреса, ключи и закачать базу данных данного сервера на свой ресурс. Это классическая сборка со всеми необходимыми инструментами, включая админский инструментарий с основными админискими командами и правами доступа.</h3>
-
-# ESX-Server-by-AlexVJ
-This is an ESX server build, ready to go. You only need to set up your addresses, keys and upload the database of this server to your resource. This is a classic build with all the necessary tools.
-
-Это сборка на ESX фреймворк сервер, она готова к работе. Вам нужно лишь настроить ваши адреса, ключи и закачать базу данных данного сервера на свой ресурс. Это классическая сборка со всеми необходимыми инструментами, включая админский инструментарий с основными админискими командами и правами доступа.
+<h3 align="center">Это сборка на ESX фреймворк сервер, она готова к работе. Вам нужно лишь настроить ваши адреса, ключи и закачать базу данных данного сервера на свой ресурс. Это классическая сборка со всеми необходимыми инструментами, включая админский инструментарий с основными админискими командами и правами доступа. This is an ESX server build, ready to go. You only need to set up your addresses, keys and upload the database of this server to your resource. This is a classic build with all the necessary tools.</h3>
 
 Редактируйте файл server.cfg в нем замените "insert the key here" на ваши ключи доступа
 
 
-set steam_webApiKey # тут вставьте ваш steamapikey
+set steam_webApiKey - тут вставьте ваш steamapikey
 
-sv_licenseKey  # Вставьте сюда ваш сгенерированный лицензионный ключ
+sv_licenseKey - Вставьте сюда ваш сгенерированный лицензионный ключ
 
-sv_hostname и sets sv_projectName  # Название хоста и название проекта
+sv_hostname и sets sv_projectName - Название хоста и название проекта
 
-set mysql_connection_string  # Тут нужно указать ключ для подключения базы данных
+set mysql_connection_string - Тут нужно указать ключ для подключения базы данных
 
 
 
